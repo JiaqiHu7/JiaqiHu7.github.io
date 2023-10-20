@@ -19,6 +19,7 @@ Education
   
   * School of Computer Science and Technology/Heibei University of Technology
   * GPA:3.86/4 
+  
 Research Interests
 ==================
 
