@@ -14,13 +14,6 @@ Education
 * M.S. Candidate in School of Cyber Engineering, Xidian University, September, 2021-present
 * B.S. in School of Computer Science and Technology, Heibei University of Technology, September, 2017-July, 2021
 
-Publications
-============
-
-<ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Research Interests
 ==================
 
@@ -36,6 +29,22 @@ Research Interests
   * Domain Generlazation
 * Reinforcement Learning
 * Applied Cryptography
+
+Publications
+============
+
+<ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Projects
+========
+* National Cyber Security Academy Student Innovation Program “Federated learning Secure Aggregation problem”, **major participant**.
+* National Cyber Security Academy Student Innovation Program “Attacks and Defence in split learning”, **major participant**.
+
+Patent
+======
+Federated learning training method based on adaptive local differential privacy, 2023.
 
 Skills
 ======
