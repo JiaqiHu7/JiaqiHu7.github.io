@@ -14,6 +14,13 @@ Education
 * M.S. Candidate in School of Cyber Engineering, Xidian University, September, 2021-present
 * B.S. in School of Computer Science and Technology, Heibei University of Technology, September, 2017-July, 2021
 
+Publications
+============
+
+<ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Research Interests
 ==================
 
@@ -40,12 +47,7 @@ Skills
 * Other Skills
   * MCU programming
 
-Publications
-============
 
-<ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 <!-- Talks
 =====
