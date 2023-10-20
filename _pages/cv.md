@@ -10,10 +10,13 @@ redirect_from:
 
 Education
 =========
+
 * Master Candidate, Cyberspace Security (September, 2021-present)
+
   *School of Cyber Engineering/Xidian University
   *Supervisor: Professor [Zilong Wang](https://web.xidian.edu.cn/zlwang/en/index.html)
 * Bachelor of Internet of Things Engineering (September, 2017-July, 2021)
+  
   *School of Computer Science and Technology/Heibei University of Technology
   *GPA:3.86/4 
 Research Interests
@@ -34,6 +37,7 @@ Research Interests
 
 Publications
 ============
+
 * Qian Chen, Zilong Wang, **Jiaqi Hu**, Jianying Zhou, Xiaodong Lin, "PAGE: Equilibrate Personalization and Generalization in Federated Learning", under review, [arxiv](https://arxiv.org/abs/2310.08961).
 * Qian Chen, **Jiaqi Hu**, Zilong Wang, Jianying Zhou, Xiaodong Lin, "DDPG-Assisted Adaptive Federated Learning: Comprehensive Consideration", working paper.
 <!-- 
