@@ -36,7 +36,8 @@ Publications
 ============
 * Qian Chen, Zilong Wang, **Jiaqi Hu**, Jianying Zhou, Xiaodong Lin, "PAGE: Equilibrate Personalization and Generalization in Federated Learning", under review, [arxiv](https://arxiv.org/abs/2310.08961).
 * Qian Chen, **Jiaqi Hu**, Zilong Wang, Jianying Zhou, Xiaodong Lin, "DDPG-Assisted Adaptive Federated Learning: Comprehensive Consideration", working paper.
-<!-- <ul>{% for post in site.publications %}
+<!-- 
+<ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
