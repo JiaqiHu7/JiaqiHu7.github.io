@@ -13,12 +13,12 @@ Education
 
 * Master Candidate, Cyberspace Security (September, 2021-present)
 
-  *School of Cyber Engineering/Xidian University
-  *Supervisor: Professor [Zilong Wang](https://web.xidian.edu.cn/zlwang/en/index.html)
+  * School of Cyber Engineering/Xidian University
+  * Supervisor: Professor [Zilong Wang](https://web.xidian.edu.cn/zlwang/en/index.html)
 * Bachelor of Internet of Things Engineering (September, 2017-July, 2021)
   
-  *School of Computer Science and Technology/Heibei University of Technology
-  *GPA:3.86/4 
+  * School of Computer Science and Technology/Heibei University of Technology
+  * GPA:3.86/4 
 Research Interests
 ==================
 
