@@ -24,7 +24,7 @@ Research Interests
   * Attacks and defences
 * Transfer Learning
 
-  * Unsupervised Multi-Source Domain adaptation
+  * Unsupervised Multi-Source Domain Adaptation
   * Domain Adaptation Theory
   * Domain Generlazation
 * Reinforcement Learning
@@ -32,10 +32,11 @@ Research Interests
 
 Publications
 ============
-
-<ul>{% for post in site.publications %}
+* Qian Chen, Zilong Wang, **Jiaqi Hu**, Jianying Zhou, Xiaodong Lin, "PAGE: Equilibrate Personalization and Generalization in Federated Learning", under review, [arxiv](https://arxiv.org/abs/2310.08961).
+* Qian Chen, **Jiaqi Hu**, Zilong Wang, Jianying Zhou, Xiaodong Lin, "DDPG-Assisted Adaptive Federated Learning: Comprehensive Consideration", working paper.
+<!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Projects
 ========
