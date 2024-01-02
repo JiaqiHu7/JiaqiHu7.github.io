@@ -25,9 +25,9 @@ Research Interests
 
 * Federated Learning
 
-  * Heterogenity
-  * Personazation
-  * Attacks and defences
+  * Heterogeneity
+  * Personalization
+  * Attacks and Defences
 * Transfer Learning
 
   * Unsupervised Multi-Source Domain Adaptation
@@ -50,7 +50,14 @@ Projects
 
 Patent
 ======
-* Federated learning training method based on adaptive local differential privacy, 2023.
+* Zilong Wang, **Jiaqi Hu**, Qian Chen, Hongbo Wang, Ke Luo. ”Federated learning training method
+based on adaptive local differential privacy”, CN Patent Application 2023111139801, 2023.
+
+Grant/Scholarship
+=================
+* First-prize academic scholarship                   (Received in Dec 2023)
+* Scholarship for excellent recommendation students  (Received in Dec 2021)
+* National Encouragement scholarship                 (Received in Dec 2019)
 
 Skills
 ======
