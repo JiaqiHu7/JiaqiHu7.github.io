@@ -15,7 +15,7 @@ Education
 
   * School of Cyber Engineering/Xidian University
   * Supervisor: Professor [Zilong Wang](https://scholar.google.com/citations?hl=en&user=jU_WAi4AAAAJ&view_op=list_works&sortby=pubdate)
-* Bachelor of Internet of Things Engineering (September, 2017-July, 2021)
+* Bachelor of Internet of Things Engineering (September, 2017-June, 2021)
   
   * School of Computer Science and Technology/Heibei University of Technology
   * GPA:3.86/4 
