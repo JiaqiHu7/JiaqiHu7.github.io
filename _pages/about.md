@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- I am a third-year Master student advised by Prof. [Zilong Wang](https://scholar.google.com/citations?hl=en&user=jU_WAi4AAAAJ&view_op=list_works&sortby=pubdate) at the School of Cyber Engineering, Xidian University. Previously, I graduated from Hebei University of Technology with a B.E. degree in Internet of Things Engineering.
+ I am a first-year PhD student supervised by Prof.[Apostolos I. Rikos](https://www.apostolosr.com/) at the AI Thrust of Information Hub, Hong Kong University of Science and Technology (Guangzhou). Previously, I graduated from Xidian University with M.S. degree in Cyberspace security and Hebei University of Technology with a B.E. degree in Internet of Things Engineering.
 
 <!-- A data-driven personal website
 ======
