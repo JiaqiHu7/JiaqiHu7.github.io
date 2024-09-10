@@ -11,10 +11,14 @@ redirect_from:
 Education
 =========
 
-* Master Candidate, Cyberspace Security (September, 2021-present)
+* PhD Candidate, Artifical Intelligence (September, 2024-present)
+  
+  * Information Hub/Hong Kong University of Science and Technology (Guangzhou)
+  * supervisor: Professor [Apostolos I. Rikos](https://www.apostolosr.com/)
+* Master of Cyberspace Security (September, 2021-June, 2024)
 
   * School of Cyber Engineering/Xidian University
-  * Supervisor: Professor [Zilong Wang](https://scholar.google.com/citations?hl=en&user=jU_WAi4AAAAJ&view_op=list_works&sortby=pubdate)
+  * Supervisor: Professor [Zilong Wang](https://faculty.xidian.edu.cn/WZL3/en/index.htm)
 * Bachelor of Internet of Things Engineering (September, 2017-June, 2021)
   
   * School of Computer Science and Technology/Heibei University of Technology
