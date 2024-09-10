@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- I am a first-year PhD student supervised by Prof.[Apostolos I. Rikos](https://www.apostolosr.com/) at the AI Thrust of Information Hub, Hong Kong University of Science and Technology (Guangzhou). Previously, I graduated from Xidian University with M.S. degree in Cyberspace security and Hebei University of Technology with a B.E. degree in Internet of Things Engineering.
+ I am a first-year PhD student supervised by Prof.[Apostolos I. Rikos](https://www.apostolosr.com/) at the AI Thrust of Information Hub, Hong Kong University of Science and Technology (Guangzhou). Previously, I graduated from Xidian University with M.E. degree in Cyberspace security and Hebei University of Technology with a B.E. degree in Internet of Things Engineering.
 
 <!-- A data-driven personal website
 ======
