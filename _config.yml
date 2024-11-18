@@ -11,9 +11,9 @@ title                    : "Jiaqi Hu"
 title_separator          : "-"
 name                     : &name "Jiaqi Hu"
 description              : &description "This is my personal page"
-url                      : https://ivy-h7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jiaqihu7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ivy-h7/ivy-h7.github.io"
+repository               : "JiaqiHu7/JiaqiHu7.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiaqi Hu"
   avatar           : "profile.png"
-  bio              : "Master Candidate, School of Cyber Engineering/Xidian University "
+  bio              : "PhD Candidate, AI Thrust/Information Hub/The Hong Kong University of Science and Technology(GuangZhou)"
   location         : #"https://www.google.com.hk/search?newwindow=1&sca_esv=575127353&tbs=lf:1,lf_ui:4&tbm=lcl&q=xidian+university&rflfq=1&num=10&sa=X&ved=2ahUKEwjO6aykoYSCAxWGMN4KHeajA1YQjGp6BAhUEAE&biw=1920&bih=1001&dpr=1#rlfi=hd:;si:8062212423118886373,l,ChF4aWRpYW4gdW5pdmVyc2l0eSIDiAEBSPeUlwFaJxAAEAEYABgBIhF4aWRpYW4gdW5pdmVyc2l0eSoGCAIQABABMgJlbpIBCnVuaXZlcnNpdHmqATkQATIeEAEiGreYqGdDDiLy04vmujDHxkDf0D-v2RBuHCEtMhUQAiIReGlkaWFuIHVuaXZlcnNpdHk;mv:[[34.4130955,122.4337162],[28.971940099999994,108.0709998]]"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ivy-h7"
+  github           : "jiaqihu7"
   google_plus      :
   keybase          :
   instagram        :
