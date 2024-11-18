@@ -1,1 +1,1 @@
-[This is my personal page](https://JiaqiHu7.github.io/)
+[This is my personal page](https://jiaqihu7.github.io/)
